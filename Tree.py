@@ -1,17 +1,14 @@
-"""Завдання 1
+"""Task 1
 
-Напишіть алгоритм (функцію), який знаходить найбільше значення у двійковому дереві пошуку 
-або в AVL-дереві. Візьміть будь-яку реалізацію дерева з конспекту чи з іншого джерела.
+Write an algorithm (function) that finds the largest value in a binary search tree
 
-Завдання 2
+Task 2
 
-Напишіть алгоритм (функцію), який знаходить найменше значення у двійковому дереві пошуку 
-або в AVL-дереві. Візьміть будь-яку реалізацію дерева з конспекту чи з іншого джерела.
+Write an algorithm (function) that finds the smallest value in a binary search tree
 
-Завдання 3
+Task 3
 
-Напишіть алгоритм (функцію), який знаходить суму всіх значень у двійковому дереві пошуку 
-або в AVL-дереві. Візьміть будь-яку реалізацію дерева з конспекту чи з іншого джерела."""
+Write an algorithm (function) that finds the sum of all values in a binary search tree"""
 
 class Node:
     def __init__(self, key):
